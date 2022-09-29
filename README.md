@@ -1,3 +1,3 @@
 <p align="center">
-# Enigma quiz
+Enigma quiz
 </p>
